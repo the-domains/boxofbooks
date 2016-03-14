@@ -1,6 +1,6 @@
 name: boxofbooks
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.49234
 typography_spectrum: 0.34547
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#f8f9fb'
     - '#342b1f'
     - '#41ff7b'
-  brandStrength: 0.9592826927546412
-  lightness: 0.9507705848664045
-  saturation: 0
-  rhythmicContrast: 0.3681128094904125
+  brandStrength: 0.25
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
