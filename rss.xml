@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[boxofbooks]]></title>
         <description><![CDATA[boxofbooks]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/boxofbooks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 04:27:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 04:40:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/boxofbooks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Plickers]]></title>
+            <description><![CDATA[<article><h1>Plickers</h1><p>Plickers is a powerfully simple tool that lets teachers collect real-time formative assessment data without the need for student devices</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb114200301aac4f87870e0fa53ed0f5f7fb8ff7.jpg"></article>]]></description>
+            <link>https://plickers.com/</link>
+            <guid isPermaLink="false">88e46e90-4838-4953-9750-a49d2c64243b</guid>
+            <pubDate>Mon, 14 Mar 2016 04:39:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Box of Books]]></title>
             <description><![CDATA[<article><h1>Box of Books</h1><p>Box of Books delivers digital school text books. Schools build their own Book Lists from Educational Publishers and School texts. Parents purchase and approve books for the students in their care.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f27d11d311e02f89f37d50efa53a80c89d55f2ab.jpg"></article>]]></description>
